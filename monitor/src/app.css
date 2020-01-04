@@ -1,0 +1,13 @@
+.app {
+  padding: 25px;
+}
+
+.stat-container {
+  display: flex;
+  line-height: 20px;
+}
+
+.stat-label {
+  font-weight: bold;
+  margin-right: 8px;
+}
